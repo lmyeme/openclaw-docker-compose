@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "profiles": {
+    "google:manual": {
+      "type": "token",
+      "provider": "google",
+      "token": "AIzaSyDnCIJTe8_3zkSsJ-yrAAetAApAATmIFZc"
+    }
+  },
+  "usageStats": {
+    "google:manual": {
+      "errorCount": 0,
+      "lastUsed": 1773141094095
+    }
+  }
+}
